@@ -53,5 +53,3 @@ Feel free to drop me a line at [mattia.polticchia@gmail.com](mailto:mattia.polti
 > "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 ---
-
-Thanks for stopping by! Now go click that fork button and let’s make something awesome together.
