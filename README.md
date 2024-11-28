@@ -1,14 +1,13 @@
-# Mattia Polticchia
 
 ![Hi there!](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
-Welcome to my GitHub profile! I'm Mattia Polticchia, a computer scientist and AI enthusiast from Bettona, Italy. My passion for technology started way back when I first tried to fix our family PC... and ended up causing a power outage in the neighborhood. But hey, look where I am now!
+Welcome to my GitHub profile! I'm Trash, a computer scientist and AI enthusiast. My passion for technology started way back when I first tried to fix our family PC... and ended up causing a power outage in the neighborhood. But hey, look where I am now!
 
 ---
 
 ## About Me
 
-- **🌍 Where:** Currently based in Bettona, always roaming the digital realms.
+- **🌍 Where:** Currently based in Perugia, always roaming the digital realms.
 - **🎓 Background:**
   - Bachelor’s in Computer Science 🎓 (Reinforcement Learning and Tetris: yes, I used AI to play games before it was cool).
   - Master’s in Artificial Intelligence 🧠 (Classifying datasets with BERT: because who doesn’t love structured data?).
