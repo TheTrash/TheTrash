@@ -41,11 +41,6 @@ You might find me:
 - Teaching students the wonders of Scratch (yes, coding can be fun).
 - Attempting to finish yet another video game for "research purposes."
 
----
-
-## Let’s Connect!
-
-Feel free to drop me a line at [mattia.polticchia@gmail.com](mailto:mattia.polticchia@gmail.com) or explore my repositories below. Just don’t ask for my Tetris high score... the AI beat me. 😅
 
 ---
 
